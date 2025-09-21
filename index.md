@@ -1,3 +1,7 @@
+- [Chi-yuan](https://match.ucsf.edu/people/chi-yuan-hsu-md-ms) Hsu, MD, MS
+- [Joe Coresh](https://www.youtube.com/watch?v=En3zQRjo9DU), MD, PhD
+   - Optimal [Aging](https://nyulangone.org/news/dr-josef-coresh-living-longer-healthier-happier-life) Institute
+
 # A
 Alright, Pyromancer — this really is a **landmark paper** (Hsu, Go, Chertow et al., *NEJM* 2004; >15,000 citations). Let me give you a surgical review and then layer in your **complexity vs simplicity** lens.
 
